@@ -34,13 +34,27 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+/--It is the the foundation, the building blocks and structure for a website to run.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+/--block means that the element is displayed as a block and it tolerates not Html, like paragraphs an headers
+/--inline means its inside the current block on the element line.
+
+
 
 3. What are the 4 areas of the box model?
 
+/--content edge, padding edge, border 
+edge, and the margin edge.
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+/--On the cross axis
+
 5. Explain why git is valuable to a team of developers.
+
+/--Because you can update the main branch on your own or w a team of people while they updates there personal branches. Its helpful to work on small pieces before going into the main branch you dont want to crash the program. Git hub is an excellent way of sharing, working, an collborating on code with out messing up the main branch.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 

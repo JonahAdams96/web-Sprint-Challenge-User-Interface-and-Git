@@ -187,7 +187,7 @@ p {
 
 .bottom-content {
     display: flex;
-    margin: 0 2% 20px;
+    margin: 0 4%;
     justify-content: space-around;
 }
 
@@ -211,6 +211,7 @@ footer nav {
     align-items: center;
     padding: 20px 2%;
     font-size: 14px;
+    margin: 17%;
 }
 
 footer nav a {
