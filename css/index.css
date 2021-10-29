@@ -56,6 +56,47 @@ html, body {
     font-family: 'Roboto', sans-serif;
 }
 
+
+/*header styles*/
+header
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.head-container{
+ display: flex;
+ justify-content: center;
+}
+nav{
+display: flex;
+justify-content: center;
+}
+a{
+    display: flex;
+    justify-content: ;
+}
+.links{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    width: 20%;
+    margin:0% 0% 0% 17%;
+
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    width: 38%;
+    margin: 1% 1% 1% 30.5%;
+    margin-;
+}
+
+
+
+
+
 h1, h2, h3, h4, h5 {
     font-size: 18px;
     margin-bottom: 15px;
